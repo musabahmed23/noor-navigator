@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&display=swap');
+
+.font-arabic {
+  font-family: 'Amiri', serif;
+}
+
+.sepia {
+  background-color: #f4ecd8 !important;
+  color: #5b4636 !important;
+}
+
+.sepia .bg-white, 
+.sepia .bg-slate-50 {
+  background-color: #f4ecd8 !important;
+}
+
+.sepia .text-slate-800,
+.sepia .text-slate-900,
+.sepia .text-slate-600 {
+  color: #5b4636 !important;
+}
+
+.sepia .border-slate-100 {
+  border-color: #e5dac1 !important;
+}
